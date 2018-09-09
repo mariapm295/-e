@@ -1,2 +1,3 @@
-Confilcteando
-
+Confilcteando fase 2
+archivo conflicto siendo modificado
+see yah
